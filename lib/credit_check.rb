@@ -31,7 +31,7 @@ def sum_digits(number)
 end
 
 
-card_number = "4024007136512380"
+card_number = "4929735477250543"
 
 if sum_digits(digit_inspect_and_sum(numbers_doubled(card_number)))
   puts "Number is valid!"
